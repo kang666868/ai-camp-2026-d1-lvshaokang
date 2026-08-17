@@ -1,0 +1,6 @@
+Dataset: Titanic Dataset train.csv, 891 rows, 223 held-out test rows
+Baseline: accuracy 0.6143497757847534; recall_survived 0.0; f1_survived 0.0
+Baseline confusion matrix (labels 0, 1): [[137, 0], [86, 0]]
+Candidate: accuracy 0.7443946188340808; precision_survived 0.6835443037974683
+Candidate: recall_survived 0.627906976744186; f1_survived 0.6545454545454545
+Candidate confusion matrix (labels 0, 1): [[112, 25], [32, 54]]

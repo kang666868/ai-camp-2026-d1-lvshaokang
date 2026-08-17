@@ -1,0 +1,12 @@
+{
+  "milestone": "day-01",
+  "team": "",
+  "members": ["吕绍康 U202412686"],
+  "repository_url": "REPLACE_WITH_YOUR_GITHUB_REPOSITORY_URL",
+  "run_command": "python train.py",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 3,
+  "student_confirmed_no_secrets": true
+}

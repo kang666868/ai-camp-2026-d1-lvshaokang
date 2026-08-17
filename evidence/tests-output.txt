@@ -1,0 +1,8 @@
+test_candidate_is_a_pipeline (test_pipeline.CandidateTests.test_candidate_is_a_pipeline) ... ok
+test_preprocessor_handles_missing_values (test_pipeline.PreparationTests.test_preprocessor_handles_missing_values) ... ok
+test_split_keeps_all_rows (test_pipeline.PreparationTests.test_split_keeps_all_rows) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.058s
+
+OK

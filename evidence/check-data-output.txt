@@ -1,0 +1,7 @@
+REAL DATA CHECK PASSED
+rows: 891
+columns: 12
+survived_counts: {0: 549, 1: 342}
+missing_age: 177
+missing_cabin: 687
+missing_embarked: 2
